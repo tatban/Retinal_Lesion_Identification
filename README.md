@@ -26,7 +26,9 @@ The program is tested on **MATLAB R2018a** and **MATLAB R2014a** with two versio
 
 2. The code was built on a private dataset, however it should work on any RGB dataset of retinal scan (fundus images) probably with some alteration on image dimension if required. 
 
-3. There is no current plan of sharing the dataset due to privacy and proprietary reasons. However, the code is released to facilitate further research. Should there be any change in the plan, this repository will be updated with necessary information.   
+3. There is no current plan of sharing the dataset due to privacy and proprietary reasons. However, the code is released to facilitate further research. Should there be any change in the plan, this repository will be updated with necessary information.
+
+4. Should there be any specific questions related to the code, please contact: gata.tatha14@gmail.com .
 
 
 ### Reference:
