@@ -14,11 +14,11 @@ This code is used to automatically segment out the lesions from retinal images.
 
 5. Choose an image file or folder based on previous coice of single or bulk processing from the UI browse window.
 
-6. Opt whether you would like to see all the intermediate images while processing. Please note choosing this as `Yes` will slow down the process. And even if you choose `No`, it will save all intermediate images in the folder inside the data folder. so you can see them later point of time.
+6. Choose whether you would like to see all the intermediate images while processing. Please note choosing this as `Yes` will slow down the process. And even if you choose `No`, it will save all intermediate images in the folder inside the data folder. so you can see them later point of time.
 
 
 ### Caution:
-The program is tested on **MATLAB R2018a** and **MATLAB R2014a** with two versions of the code maintained in two folder. However, the lower version code has an inefficiency in saving two of the resulting images due to non availability of window fullscreen feature. But, Higher version of the code i.e. for MATLAB R2018a or above runs perfectly fine.
+The program is tested on **MATLAB R2018a** and **MATLAB R2014a** with two versions of the code maintained in two folders. However, the lower version code has an inefficiency in saving two of the resulting images due to non availability of window fullscreen feature. But, Higher version of the code i.e. for MATLAB R2018a or above runs perfectly fine.
 
 
 ### Notes:
